@@ -1,0 +1,11 @@
+Return EXACTLY these lines, nothing else:
+STATUS: active | expired | unreadable
+TITLE:
+COMPANY: (the hiring insurer/firm; if a recruitment agency, write "Agency: <name> for <client or unknown>")
+CITY:
+CONTRACT: CDI | CDD | VIE | stage | alternance | freelance | unknown
+EXP_MIN_YEARS: (number; 0 if "débutant"/"jeune diplômé"; blank if not stated)
+EXP_QUOTE: (exact words about experience, max 15 words)
+POSTED: (date as shown)
+DOMAIN: one of [Pricing IARD; Pricing Santé-Prévoyance; Inventaire / Provisionnement; Réassurance; ALM; Risques / ERM; Solvabilité II / Reporting; Modélisation Vie / Épargne; Produits Vie / Épargne; Conseil actuariel; Data / IA actuariat; CAT / Climat; Fonction actuarielle; Autre]
+SKILLS: comma-separated, choose ONLY from this list and ONLY if explicitly in the text: Pricing / tarification, Provisionnement / inventaire, Rentabilité / pilotage, Reporting / dashboards, Automatisation / industrialisation, Machine learning, LLM / IA générative, GLM, Réassurance, ALM, ERM / appétence au risque, CAT / climat, Modèles de projection, Lois comportementales / experience analysis, Comptabilité assurance, Data volumineuse / multi-sources, Contrôles / fiabilisation, Conception produit, Gestion de projet, Solvabilité II, ORSA, IFRS 17, Python, R, SAS, SQL, Excel, VBA, Prophet, Spark, SIG, ReMetrica, Dataviz (Power BI/Tableau/Qlik), Autre logiciel actuariel, Communication, Vulgarisation non-actuaires, Travail transverse, Rigueur, Autonomie, Synthèse, Esprit critique, Curiosité, Anglais

@@ -1,0 +1,40 @@
+category,skill,nb_offres,part_offres
+Savoir-être,Communication,11,0.688
+Outil,Python,11,0.688
+Savoir-être,Travail transverse,11,0.688
+Métier,Pricing / tarification,10,0.625
+Réglementaire,Solvabilité II,10,0.625
+Métier,Automatisation / industrialisation,9,0.562
+Outil,Excel,8,0.5
+Métier,Rentabilité / pilotage,8,0.5
+Savoir-être,Rigueur,7,0.438
+Métier,Provisionnement,6,0.375
+Outil,R,6,0.375
+Métier,Reporting / dashboards,6,0.375
+Savoir-être,Anglais,5,0.312
+Métier,Machine learning,5,0.312
+Métier,Réassurance,5,0.312
+Savoir-être,Synthèse,5,0.312
+Savoir-être,Vulgarisation non-actuaires,5,0.312
+Savoir-être,Autonomie,4,0.25
+Métier,ERM / appétence au risque,4,0.25
+Métier,Modèles de projection,4,0.25
+Métier,Lois comportementales / experience analysis,3,0.188
+Réglementaire,ORSA,3,0.188
+Outil,Prophet,3,0.188
+Outil,VBA,3,0.188
+Métier,ALM,2,0.125
+Métier,CAT / climat,2,0.125
+Métier,Comptabilité assurance,2,0.125
+Métier,Contrôles / fiabilisation,2,0.125
+Métier,Data volumineuse / multi-sources,2,0.125
+Savoir-être,Esprit critique,2,0.125
+Métier,LLM / IA générative,2,0.125
+Outil,SAS,2,0.125
+Outil,SIG,2,0.125
+Outil,Dataviz,1,0.062
+Métier,GLM,1,0.062
+Réglementaire,IFRS 17,1,0.062
+Outil,ReMetrica,1,0.062
+Outil,SQL,1,0.062
+Outil,Spark,1,0.062

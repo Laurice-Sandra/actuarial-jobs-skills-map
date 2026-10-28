@@ -1,0 +1,474 @@
+offer_id,category,skill
+C001,Métier,Automatisation / industrialisation
+C001,Métier,Conception produit
+C001,Métier,Contrôles / fiabilisation
+C001,Métier,Lois comportementales / experience analysis
+C001,Métier,Rentabilité / pilotage
+C001,Outil,Excel
+C001,Outil,Python
+C001,Outil,R
+C001,Savoir-être,Autonomie
+C001,Savoir-être,Communication
+C001,Savoir-être,Rigueur
+C001,Savoir-être,Travail transverse
+C002,Métier,Provisionnement / inventaire
+C002,Métier,Rentabilité / pilotage
+C002,Métier,Réassurance
+C002,Réglementaire,ORSA
+C002,Savoir-être,Autonomie
+C002,Savoir-être,Communication
+C002,Savoir-être,Rigueur
+C002,Savoir-être,Synthèse
+C003,Métier,Automatisation / industrialisation
+C003,Métier,Modèles de projection
+C003,Métier,Pricing / tarification
+C003,Métier,Provisionnement / inventaire
+C003,Outil,Dataviz (Power BI/Tableau/Qlik)
+C003,Outil,VBA
+C004,Métier,Pricing / tarification
+C004,Métier,Rentabilité / pilotage
+C004,Outil,Python
+C004,Outil,SAS
+C004,Savoir-être,Travail transverse
+C005,Métier,CAT / climat
+C005,Métier,Pricing / tarification
+C005,Métier,Provisionnement / inventaire
+C005,Métier,Reporting / dashboards
+C005,Métier,Réassurance
+C005,Savoir-être,Anglais
+C005,Savoir-être,Rigueur
+C006,Métier,ALM
+C006,Métier,Provisionnement / inventaire
+C006,Métier,Réassurance
+C006,Réglementaire,Solvabilité II
+C006,Savoir-être,Autonomie
+C006,Savoir-être,Curiosité
+C006,Savoir-être,Gestion de projet
+C006,Savoir-être,Rigueur
+C006,Savoir-être,Synthèse
+C007,Métier,Conception produit
+C007,Métier,Rentabilité / pilotage
+C007,Métier,Reporting / dashboards
+C007,Outil,Dataviz (Power BI/Tableau/Qlik)
+C007,Outil,Excel
+C007,Outil,Python
+C007,Outil,VBA
+C007,Savoir-être,Autonomie
+C007,Savoir-être,Communication
+C007,Savoir-être,Gestion de projet
+C007,Savoir-être,Rigueur
+C007,Savoir-être,Travail transverse
+C008,Métier,Conception produit
+C008,Métier,Pricing / tarification
+C008,Métier,Rentabilité / pilotage
+C008,Outil,Python
+C008,Outil,SAS
+C008,Outil,VBA
+C008,Savoir-être,Travail transverse
+C009,Métier,Conception produit
+C009,Métier,Pricing / tarification
+C009,Métier,Provisionnement / inventaire
+C009,Métier,Rentabilité / pilotage
+C009,Métier,Reporting / dashboards
+C009,Outil,Excel
+C009,Outil,SAS
+C009,Outil,VBA
+C009,Savoir-être,Autonomie
+C009,Savoir-être,Communication
+C009,Savoir-être,Gestion de projet
+C009,Savoir-être,Synthèse
+C010,Métier,Provisionnement / inventaire
+C010,Métier,Rentabilité / pilotage
+C010,Outil,Python
+C010,Savoir-être,Communication
+C010,Savoir-être,Synthèse
+C011,Métier,Provisionnement / inventaire
+C011,Outil,Autre logiciel actuariel
+C011,Outil,Dataviz (Power BI/Tableau/Qlik)
+C011,Outil,Excel
+C011,Outil,Python
+C011,Outil,R
+C011,Outil,SAS
+C011,Réglementaire,IFRS 17
+C011,Réglementaire,Solvabilité II
+C012,Métier,Automatisation / industrialisation
+C012,Métier,Modèles de projection
+C012,Métier,Provisionnement / inventaire
+C012,Métier,Reporting / dashboards
+C012,Réglementaire,IFRS 17
+C012,Réglementaire,Solvabilité II
+C012,Savoir-être,Autonomie
+C012,Savoir-être,Esprit critique
+C012,Savoir-être,Rigueur
+C012,Savoir-être,Travail transverse
+C013,Métier,Automatisation / industrialisation
+C013,Métier,Contrôles / fiabilisation
+C013,Métier,Provisionnement / inventaire
+C013,Métier,Reporting / dashboards
+C013,Outil,Dataviz (Power BI/Tableau/Qlik)
+C013,Outil,Excel
+C013,Outil,Python
+C013,Outil,SQL
+C013,Réglementaire,Solvabilité II
+C013,Savoir-être,Autonomie
+C013,Savoir-être,Esprit critique
+C013,Savoir-être,Rigueur
+C013,Savoir-être,Travail transverse
+C014,Métier,Conception produit
+C014,Métier,Pricing / tarification
+C014,Métier,Rentabilité / pilotage
+C014,Outil,Excel
+C014,Savoir-être,Autonomie
+C014,Savoir-être,Communication
+C014,Savoir-être,Curiosité
+C014,Savoir-être,Rigueur
+C014,Savoir-être,Synthèse
+C014,Savoir-être,Travail transverse
+C015,Métier,Provisionnement / inventaire
+C015,Outil,Autre logiciel actuariel
+C015,Outil,Excel
+C015,Outil,SAS
+C015,Outil,VBA
+C015,Réglementaire,Solvabilité II
+C015,Savoir-être,Autonomie
+C015,Savoir-être,Curiosité
+C015,Savoir-être,Gestion de projet
+C015,Savoir-être,Rigueur
+C016,Métier,Contrôles / fiabilisation
+C016,Métier,Provisionnement / inventaire
+C016,Métier,Rentabilité / pilotage
+C016,Outil,Excel
+C016,Outil,SAS
+C016,Outil,VBA
+C016,Savoir-être,Autonomie
+C016,Savoir-être,Communication
+C016,Savoir-être,Curiosité
+C016,Savoir-être,Rigueur
+C016,Savoir-être,Synthèse
+C016,Savoir-être,Travail transverse
+C017,Métier,ALM
+C017,Métier,Automatisation / industrialisation
+C017,Métier,Contrôles / fiabilisation
+C017,Métier,LLM / IA générative
+C017,Métier,Rentabilité / pilotage
+C017,Outil,Autre logiciel actuariel
+C017,Outil,Python
+C017,Réglementaire,IFRS 17
+C017,Réglementaire,Solvabilité II
+C017,Savoir-être,Curiosité
+C017,Savoir-être,Rigueur
+C017,Savoir-être,Travail transverse
+C018,Métier,Automatisation / industrialisation
+C018,Métier,Modèles de projection
+C018,Métier,Pricing / tarification
+C018,Métier,Rentabilité / pilotage
+C018,Outil,Excel
+C018,Outil,Python
+C018,Outil,SQL
+C018,Outil,VBA
+C018,Savoir-être,Autonomie
+C018,Savoir-être,Curiosité
+C018,Savoir-être,Rigueur
+C018,Savoir-être,Synthèse
+C018,Savoir-être,Travail transverse
+C019,Métier,Pricing / tarification
+C019,Métier,Provisionnement / inventaire
+C019,Métier,Rentabilité / pilotage
+C019,Outil,Dataviz (Power BI/Tableau/Qlik)
+C019,Outil,Excel
+C019,Outil,R
+C019,Outil,SQL
+C019,Savoir-être,Autonomie
+C019,Savoir-être,Rigueur
+C019,Savoir-être,Synthèse
+C019,Savoir-être,Travail transverse
+C020,Métier,LLM / IA générative
+C020,Métier,Reporting / dashboards
+C020,Réglementaire,IFRS 17
+C020,Réglementaire,ORSA
+C020,Réglementaire,Solvabilité II
+C020,Savoir-être,Autonomie
+C020,Savoir-être,Curiosité
+C020,Savoir-être,Synthèse
+C020,Savoir-être,Travail transverse
+C020,Savoir-être,Vulgarisation non-actuaires
+C021,Métier,Provisionnement / inventaire
+C021,Métier,Rentabilité / pilotage
+C021,Métier,Réassurance
+C021,Outil,Autre logiciel actuariel
+C021,Outil,Excel
+C021,Outil,SAS
+C021,Outil,SQL
+C021,Réglementaire,ORSA
+C021,Savoir-être,Autonomie
+C021,Savoir-être,Rigueur
+C021,Savoir-être,Synthèse
+C022,Métier,ALM
+C022,Métier,ERM / appétence au risque
+C022,Métier,Pricing / tarification
+C022,Métier,Provisionnement / inventaire
+C022,Outil,Excel
+C022,Réglementaire,Solvabilité II
+C022,Savoir-être,Anglais
+C023,Métier,CAT / climat
+C023,Métier,Réassurance
+C023,Outil,Python
+C023,Savoir-être,Anglais
+C023,Savoir-être,Autonomie
+C023,Savoir-être,Communication
+C023,Savoir-être,Curiosité
+C023,Savoir-être,Rigueur
+C023,Savoir-être,Vulgarisation non-actuaires
+C024,Métier,Lois comportementales / experience analysis
+C024,Métier,Provisionnement / inventaire
+C024,Métier,Reporting / dashboards
+C024,Outil,Python
+C024,Outil,R
+C024,Outil,SAS
+C024,Outil,VBA
+C024,Réglementaire,IFRS 17
+C024,Réglementaire,ORSA
+C024,Réglementaire,Solvabilité II
+C024,Savoir-être,Autonomie
+C024,Savoir-être,Rigueur
+C024,Savoir-être,Synthèse
+C025,Métier,Conception produit
+C025,Métier,Pricing / tarification
+C025,Métier,Rentabilité / pilotage
+C025,Métier,Réassurance
+C025,Outil,SAS
+C025,Outil,VBA
+C025,Réglementaire,IFRS 17
+C025,Réglementaire,Solvabilité II
+C025,Savoir-être,Communication
+C025,Savoir-être,Rigueur
+C025,Savoir-être,Synthèse
+C026,Métier,Contrôles / fiabilisation
+C026,Savoir-être,Autonomie
+C026,Savoir-être,Rigueur
+C027,Métier,Provisionnement / inventaire
+C027,Métier,Réassurance
+C027,Réglementaire,ORSA
+C027,Réglementaire,Solvabilité II
+C027,Savoir-être,Anglais
+C027,Savoir-être,Communication
+C027,Savoir-être,Curiosité
+C027,Savoir-être,Gestion de projet
+C027,Savoir-être,Rigueur
+C028,Métier,CAT / climat
+C028,Métier,Provisionnement / inventaire
+C028,Métier,Réassurance
+C028,Outil,R
+C028,Outil,SAS
+C028,Réglementaire,Solvabilité II
+C029,Métier,Provisionnement / inventaire
+C029,Outil,Autre logiciel actuariel
+C029,Outil,Excel
+C029,Outil,SAS
+C029,Outil,VBA
+C029,Réglementaire,Solvabilité II
+C029,Savoir-être,Autonomie
+C029,Savoir-être,Rigueur
+C030,Métier,Comptabilité assurance
+C030,Métier,Contrôles / fiabilisation
+C030,Métier,Provisionnement / inventaire
+C030,Métier,Réassurance
+C030,Réglementaire,IFRS 17
+C030,Réglementaire,Solvabilité II
+C031,Métier,Provisionnement / inventaire
+C031,Outil,SAS
+C031,Réglementaire,Solvabilité II
+C031,Savoir-être,Autonomie
+C031,Savoir-être,Synthèse
+C032,Savoir-être,Anglais
+C032,Savoir-être,Synthèse
+C033,Métier,Pricing / tarification
+C033,Métier,Rentabilité / pilotage
+C033,Métier,Réassurance
+C033,Savoir-être,Anglais
+C033,Savoir-être,Communication
+C033,Savoir-être,Synthèse
+C033,Savoir-être,Travail transverse
+C034,Métier,Pricing / tarification
+C034,Métier,Rentabilité / pilotage
+C034,Outil,SAS
+C034,Savoir-être,Communication
+C034,Savoir-être,Curiosité
+C034,Savoir-être,Synthèse
+C034,Savoir-être,Travail transverse
+O01,Métier,Automatisation / industrialisation
+O01,Métier,Comptabilité assurance
+O01,Métier,Provisionnement / inventaire
+O01,Métier,Rentabilité / pilotage
+O01,Outil,Excel
+O01,Outil,Python
+O01,Outil,R
+O01,Outil,SAS
+O01,Outil,VBA
+O01,Réglementaire,Solvabilité II
+O01,Savoir-être,Autonomie
+O01,Savoir-être,Communication
+O01,Savoir-être,Rigueur
+O01,Savoir-être,Synthèse
+O01,Savoir-être,Travail transverse
+O02,Métier,ERM / appétence au risque
+O02,Métier,Modèles de projection
+O02,Métier,Reporting / dashboards
+O02,Outil,Excel
+O02,Outil,Prophet
+O02,Réglementaire,Solvabilité II
+O02,Savoir-être,Anglais
+O02,Savoir-être,Communication
+O02,Savoir-être,Rigueur
+O02,Savoir-être,Travail transverse
+O03,Métier,Automatisation / industrialisation
+O03,Métier,Data volumineuse / multi-sources
+O03,Métier,Machine learning
+O03,Métier,Pricing / tarification
+O03,Métier,Rentabilité / pilotage
+O03,Outil,Python
+O03,Outil,Spark
+O03,Savoir-être,Esprit critique
+O03,Savoir-être,Travail transverse
+O03,Savoir-être,Vulgarisation non-actuaires
+O04,Métier,Automatisation / industrialisation
+O04,Métier,Pricing / tarification
+O04,Métier,Provisionnement / inventaire
+O04,Métier,Rentabilité / pilotage
+O04,Métier,Réassurance
+O04,Outil,Excel
+O04,Outil,Python
+O04,Outil,R
+O04,Savoir-être,Autonomie
+O04,Savoir-être,Esprit critique
+O04,Savoir-être,Vulgarisation non-actuaires
+O05,Métier,Automatisation / industrialisation
+O05,Métier,GLM
+O05,Métier,Machine learning
+O05,Métier,Pricing / tarification
+O05,Métier,Provisionnement / inventaire
+O05,Métier,Rentabilité / pilotage
+O05,Métier,Reporting / dashboards
+O05,Outil,Python
+O05,Savoir-être,Communication
+O05,Savoir-être,Travail transverse
+O05,Savoir-être,Vulgarisation non-actuaires
+O06,Métier,Automatisation / industrialisation
+O06,Métier,Contrôles / fiabilisation
+O06,Métier,ERM / appétence au risque
+O06,Métier,Reporting / dashboards
+O06,Réglementaire,ORSA
+O06,Réglementaire,Solvabilité II
+O06,Savoir-être,Communication
+O06,Savoir-être,Travail transverse
+O06,Savoir-être,Vulgarisation non-actuaires
+O07,Métier,Pricing / tarification
+O07,Métier,Provisionnement / inventaire
+O07,Métier,Rentabilité / pilotage
+O07,Réglementaire,ORSA
+O07,Réglementaire,Solvabilité II
+O07,Savoir-être,Autonomie
+O07,Savoir-être,Communication
+O07,Savoir-être,Synthèse
+O08,Métier,Pricing / tarification
+O08,Réglementaire,IFRS 17
+O08,Réglementaire,Solvabilité II
+O08,Savoir-être,Communication
+O08,Savoir-être,Rigueur
+O08,Savoir-être,Synthèse
+O09,Métier,Contrôles / fiabilisation
+O09,Métier,Pricing / tarification
+O09,Métier,Provisionnement / inventaire
+O09,Métier,Rentabilité / pilotage
+O09,Métier,Reporting / dashboards
+O09,Réglementaire,Solvabilité II
+O09,Savoir-être,Travail transverse
+O10,Métier,Automatisation / industrialisation
+O10,Métier,CAT / climat
+O10,Métier,Data volumineuse / multi-sources
+O10,Métier,LLM / IA générative
+O10,Métier,Machine learning
+O10,Métier,Réassurance
+O10,Outil,Python
+O10,Outil,R
+O10,Outil,SIG
+O10,Savoir-être,Anglais
+O10,Savoir-être,Autonomie
+O10,Savoir-être,Communication
+O10,Savoir-être,Rigueur
+O10,Savoir-être,Travail transverse
+O11,Métier,CAT / climat
+O11,Métier,Machine learning
+O11,Métier,Pricing / tarification
+O11,Métier,Rentabilité / pilotage
+O11,Métier,Reporting / dashboards
+O11,Métier,Réassurance
+O11,Outil,Excel
+O11,Outil,Python
+O11,Outil,R
+O11,Outil,SIG
+O11,Outil,SQL
+O11,Savoir-être,Anglais
+O11,Savoir-être,Vulgarisation non-actuaires
+O12,Métier,Lois comportementales / experience analysis
+O12,Métier,Modèles de projection
+O12,Métier,Pricing / tarification
+O12,Métier,Réassurance
+O12,Outil,Excel
+O12,Outil,Python
+O12,Outil,R
+O12,Outil,VBA
+O12,Savoir-être,Communication
+O12,Savoir-être,Travail transverse
+O13,Métier,ERM / appétence au risque
+O13,Métier,Pricing / tarification
+O13,Métier,Provisionnement / inventaire
+O13,Métier,Réassurance
+O13,Outil,Excel
+O13,Outil,Python
+O13,Outil,R
+O13,Outil,ReMetrica
+O13,Outil,SAS
+O13,Réglementaire,Solvabilité II
+O13,Savoir-être,Communication
+O13,Savoir-être,Rigueur
+O13,Savoir-être,Travail transverse
+O14,Métier,ALM
+O14,Métier,Automatisation / industrialisation
+O14,Métier,Comptabilité assurance
+O14,Métier,ERM / appétence au risque
+O14,Métier,Modèles de projection
+O14,Métier,Pricing / tarification
+O14,Outil,Prophet
+O14,Outil,Python
+O14,Réglementaire,Solvabilité II
+O14,Savoir-être,Anglais
+O14,Savoir-être,Communication
+O15,Métier,ALM
+O15,Métier,Automatisation / industrialisation
+O15,Métier,Lois comportementales / experience analysis
+O15,Métier,Modèles de projection
+O15,Outil,Excel
+O15,Outil,Prophet
+O15,Outil,Python
+O15,Outil,VBA
+O15,Réglementaire,ORSA
+O15,Réglementaire,Solvabilité II
+O15,Savoir-être,Anglais
+O15,Savoir-être,Communication
+O15,Savoir-être,Rigueur
+O15,Savoir-être,Synthèse
+O15,Savoir-être,Travail transverse
+O16,Métier,Automatisation / industrialisation
+O16,Métier,LLM / IA générative
+O16,Métier,Lois comportementales / experience analysis
+O16,Métier,Machine learning
+O16,Métier,Rentabilité / pilotage
+O16,Métier,Reporting / dashboards
+O16,Outil,Dataviz (Power BI/Tableau/Qlik)
+O16,Outil,Excel
+O16,Outil,Python
+O16,Réglementaire,Solvabilité II
+O16,Savoir-être,Rigueur
+O16,Savoir-être,Synthèse
+O16,Savoir-être,Travail transverse

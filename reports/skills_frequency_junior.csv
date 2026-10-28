@@ -1,0 +1,41 @@
+category,skill,nb_offres,part_offres
+Savoir-être,Rigueur,12,0.632
+Métier,Pricing / tarification,11,0.579
+Métier,Provisionnement / inventaire,11,0.579
+Outil,Python,11,0.579
+Métier,Rentabilité / pilotage,11,0.579
+Savoir-être,Autonomie,10,0.526
+Outil,Excel,10,0.526
+Savoir-être,Communication,9,0.474
+Réglementaire,Solvabilité II,9,0.474
+Savoir-être,Synthèse,9,0.474
+Savoir-être,Travail transverse,9,0.474
+Outil,SAS,7,0.368
+Outil,R,6,0.316
+Outil,VBA,6,0.316
+Métier,Automatisation / industrialisation,5,0.263
+Savoir-être,Curiosité,5,0.263
+Métier,Conception produit,4,0.211
+Réglementaire,IFRS 17,4,0.211
+Savoir-être,Anglais,3,0.158
+Outil,Autre logiciel actuariel,3,0.158
+Métier,Reporting / dashboards,3,0.158
+Métier,Réassurance,3,0.158
+Métier,ALM,2,0.105
+Métier,CAT / climat,2,0.105
+Métier,Contrôles / fiabilisation,2,0.105
+Outil,Dataviz (Power BI/Tableau/Qlik),2,0.105
+Métier,ERM / appétence au risque,2,0.105
+Savoir-être,Gestion de projet,2,0.105
+Métier,Lois comportementales / experience analysis,2,0.105
+Réglementaire,ORSA,2,0.105
+Outil,SQL,2,0.105
+Savoir-être,Vulgarisation non-actuaires,2,0.105
+Métier,Comptabilité assurance,1,0.053
+Métier,Data volumineuse / multi-sources,1,0.053
+Savoir-être,Esprit critique,1,0.053
+Métier,LLM / IA générative,1,0.053
+Métier,Machine learning,1,0.053
+Métier,Modèles de projection,1,0.053
+Outil,ReMetrica,1,0.053
+Outil,Spark,1,0.053

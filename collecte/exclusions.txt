@@ -1,0 +1,5 @@
+# excluded (date<2026 or unreadable): LA MAE 2025, Henner 2025-11, Gan WTTJ unreadable, MACIF WTTJ unreadable, AXA comptes IARD unreadable, Groupama Gan Vie WTTJ unreadable
+Generali CDD chargé d'études techniques 22035886: non actuariel, exclu; Malakoff inventaire santé 21986581: illisible
+illisibles: MACIF Niort 20572565, Gan Vie 19425352, SwissLife 21462897, Groupama Schiltigheim 20613889, Agefiph 4892614 (robots), MAIF 8407 (page liste)
+AXA reserving réass vie santé: 2025, exclu; Seyna talent pool reinsurance: non actuariel/exp non précisée, exclu
+SG Actuaire produits IARD wizbii: 2020, exclu; SwissLife IFRS17, Predica ALM, AXA santé indiv wizbii: illisibles

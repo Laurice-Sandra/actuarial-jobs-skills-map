@@ -1,0 +1,43 @@
+category,skill,nb_offres_junior,part_offres_junior,nb_offres_confirme,part_offres_confirme,ecart_points
+Métier,Reporting / dashboards,3.0,0.158,7.0,0.438,28.0
+Métier,Contrôles / fiabilisation,2.0,0.105,5.0,0.312,21.0
+Savoir-être,Travail transverse,9.0,0.474,11.0,0.688,21.0
+Métier,Modèles de projection,1.0,0.053,4.0,0.25,20.0
+Métier,Automatisation / industrialisation,5.0,0.263,7.0,0.438,18.0
+Réglementaire,ORSA,2.0,0.105,4.0,0.25,15.0
+Réglementaire,Solvabilité II,9.0,0.474,9.0,0.562,9.0
+Métier,Réassurance,3.0,0.158,4.0,0.25,9.0
+Métier,Lois comportementales / experience analysis,2.0,0.105,3.0,0.188,8.0
+Outil,Dataviz (Power BI/Tableau/Qlik),2.0,0.105,3.0,0.188,8.0
+Savoir-être,Vulgarisation non-actuaires,2.0,0.105,3.0,0.188,8.0
+Métier,Machine learning,1.0,0.053,2.0,0.125,7.0
+Savoir-être,Esprit critique,1.0,0.053,2.0,0.125,7.0
+Métier,LLM / IA générative,1.0,0.053,2.0,0.125,7.0
+Métier,GLM,0.0,0.0,1.0,0.062,6.0
+Outil,Prophet,0.0,0.0,1.0,0.062,6.0
+Métier,ALM,2.0,0.105,2.0,0.125,2.0
+Outil,VBA,6.0,0.316,5.0,0.312,-0.0
+Réglementaire,IFRS 17,4.0,0.211,3.0,0.188,-2.0
+Savoir-être,Communication,9.0,0.474,7.0,0.438,-4.0
+Outil,SQL,2.0,0.105,1.0,0.062,-4.0
+Savoir-être,Synthèse,9.0,0.474,7.0,0.438,-4.0
+Métier,ERM / appétence au risque,2.0,0.105,1.0,0.062,-4.0
+Savoir-être,Gestion de projet,2.0,0.105,1.0,0.062,-4.0
+Métier,Data volumineuse / multi-sources,1.0,0.053,0.0,0.0,-5.0
+Métier,Comptabilité assurance,1.0,0.053,0.0,0.0,-5.0
+Outil,ReMetrica,1.0,0.053,0.0,0.0,-5.0
+Outil,Spark,1.0,0.053,0.0,0.0,-5.0
+Savoir-être,Rigueur,12.0,0.632,9.0,0.562,-7.0
+Savoir-être,Curiosité,5.0,0.263,3.0,0.188,-8.0
+Métier,Provisionnement / inventaire,11.0,0.579,8.0,0.5,-8.0
+Savoir-être,Autonomie,10.0,0.526,7.0,0.438,-9.0
+Savoir-être,Anglais,3.0,0.158,1.0,0.062,-10.0
+Métier,CAT / climat,2.0,0.105,0.0,0.0,-10.0
+Métier,Rentabilité / pilotage,11.0,0.579,7.0,0.438,-14.0
+Métier,Conception produit,4.0,0.211,1.0,0.062,-15.0
+Outil,Autre logiciel actuariel,3.0,0.158,0.0,0.0,-16.0
+Outil,SAS,7.0,0.368,3.0,0.188,-18.0
+Outil,Python,11.0,0.579,6.0,0.375,-20.0
+Métier,Pricing / tarification,11.0,0.579,6.0,0.375,-20.0
+Outil,Excel,10.0,0.526,5.0,0.312,-21.0
+Outil,R,6.0,0.316,1.0,0.062,-25.0
